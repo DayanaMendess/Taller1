@@ -40,8 +40,15 @@ como ISBN, autor y año de punlicación.
 > Ver aqui 
 ![Diagra de Usos](DiagramaUsos/Usos.png)
 
+
+
+
 > ver aqui
  ![Diagrama de Secuencia](DiagramaSecuencia/Secuencia.png)
+
+
+
+
 
 > ver aqui
  ![Diagrama de Clases ](DiagramaClases/Clases.png)
