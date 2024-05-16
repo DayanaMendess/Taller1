@@ -29,3 +29,12 @@ como ISBN, autor y año de punlicación.
 -Debe permitir la eliminación de libros obsoletos o dañados del inventario.
 -Debe proporcionar herramientas para realizar un seguimiento del estado fisico de los libros, como su ubicación en la biblioteca.
 -Debe generar informes periodicos sobre el estado del inventario las tendencias del prestamo
+
+
+
+
+Ver aqui ![Diagra de Usos](DiagramaUsos/Usos.png)
+
+ver aqui ![Diagrama de Secuencia](DiagramaSecuencia/Secuencia.png)
+
+ver aqui ![Diagrama de Clases ](DiagramaClases/Clases.png)
